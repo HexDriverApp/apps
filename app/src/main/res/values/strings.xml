@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hex Driver</string>
+    <string name="escolha">Onde a escolha é sua!</string>
+    <string name="b_link">Clique para acessar o link de Pré-Cadastro</string>
+</resources>
